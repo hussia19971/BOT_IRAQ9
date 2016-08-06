@@ -1,0 +1,1338 @@
+[ Fri Aug  5 09:42:14 2016 ]=>  احمد العبيدي [73928866] added SuperGroup
+ 
+[ Fri Aug  5 09:42:27 2016 ]=>  احمد العبيدي[73928866] set [188097739] as owner by username
+ 
+[ Fri Aug  5 09:45:05 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] set SuperGroup to: mute Photo
+ 
+[ Fri Aug  5 09:48:56 2016 ]=>  احمد العبيدي[73928866] set [176859117] as owner by username
+ 
+[ Fri Aug  5 09:49:30 2016 ]=>  احمد العبيدي [73928866] locked sticker posting
+ 
+[ Fri Aug  5 09:49:34 2016 ]=>  احمد العبيدي [73928866] locked spam 
+ 
+[ Fri Aug  5 09:49:38 2016 ]=>  احمد العبيدي [73928866] locked link posting 
+ 
+[ Fri Aug  5 09:50:34 2016 ]=>  احمد العبيدي[73928866] set [204303518] as owner by username
+ 
+[ Fri Aug  5 09:52:33 2016 ]=>  احمد العبيدي [73928866] locked fwd
+ 
+[ Fri Aug  5 09:53:12 2016 ]=>  احمد العبيدي[73928866] set [188097739] as owner by username
+ 
+[ Fri Aug  5 09:53:25 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] locked fwd
+ 
+[ Fri Aug  5 09:53:54 2016 ]=>  احمد العبيدي [73928866] unlocked reply
+ 
+[ Fri Aug  5 09:53:58 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] locked link posting 
+ 
+[ Fri Aug  5 09:54:14 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] set SuperGroup to: mute Audio
+ 
+[ Fri Aug  5 09:54:23 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] locked sticker posting
+ 
+[ Fri Aug  5 09:55:51 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] locked fwd
+ 
+[ Fri Aug  5 09:56:35 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] set SuperGroup to: mute Gifs
+ 
+[ Fri Aug  5 09:57:24 2016 ]=>  احمد العبيدي [73928866] locked link posting 
+ 
+[ Fri Aug  5 10:05:38 2016 ]=>  دٍلَوٌعـ♥ـةّ آلَمـ♥ـآمـ♥ـآ زِّوٌوٌزِّةّ (ღ˘⌣˘ღ) [155989845] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 10:09:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 @Abraham56 [176859117] kicked for #spam
+ 
+[ Fri Aug  5 10:09:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 @Abraham56 [176859117] kicked for #spam
+ 
+[ Fri Aug  5 10:09:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 @Abraham56 [176859117] kicked for #spam
+ 
+[ Fri Aug  5 10:09:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 @Abraham56 [176859117] kicked for #spam
+ 
+[ Fri Aug  5 10:09:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 @Abraham56 [176859117] kicked for #spam
+ 
+[ Fri Aug  5 10:09:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:09:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 @Abraham56 [176859117] kicked for #spam
+ 
+[ Fri Aug  5 10:09:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:10:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:10:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:10:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:10:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:10:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:10:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:11:38 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:11:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:11:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:11:54 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:12:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:12:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:12:17 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:12:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:12:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:12:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:12:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:18 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:13:58 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:14:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:14:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:21:49 2016 ]=>  دٍلَوٌعـ♥ـةّآلَمـ♥ـآمـ♥ـآزِّوٌوٌزِّةّ(ღ˘⌣˘ღ) [155989845] kicked for #spam
+ 
+[ Fri Aug  5 10:24:47 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] set SuperGroup to: mute Text
+ 
+[ Fri Aug  5 10:24:55 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] set SuperGroup to: unmute message
+ 
+[ Fri Aug  5 10:32:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:32:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:32:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:32:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:32:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:33:39 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:36:09 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] locked link posting 
+ 
+[ Fri Aug  5 10:36:39 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:36:39 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:37:58 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:53 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:38:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:39:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:40:54 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:41:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:41:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:41:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:41:04 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:41:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:41:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:41:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:42:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:42:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:42:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:42:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:42:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:42:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:43:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:43:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:43:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:43:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:43:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:43:17 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:43:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:44:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:15 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:45:53 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:46:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:46:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:46:54 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:46:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:05 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:27 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:47:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:48:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:48:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:48:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:49:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:50:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:50:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:50:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:50:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:50:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:51:28 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:51:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:51:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:52:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:53:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:53:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:54:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:55:24 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:55:24 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:55:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:55:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:55:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:56:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:56:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:56:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:57:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:57:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:57:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:57:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:58:54 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 10:59:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:07:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:07:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:07:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:07:04 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:07:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:07:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:07:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:24:36 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:25:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:25:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:28 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:26:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:27 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:38 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:28:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:34:00 2016 ]=>  Rem [53165459] kicked for #spam
+ 
+[ Fri Aug  5 11:36:20 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] set SuperGroup to: unmute Photo
+ 
+[ Fri Aug  5 11:38:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:38:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:38:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:39:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:39:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:39:38 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:39:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:36 2016 ]=>  حموديفيكهِ @KBVM12 [206342851] kicked for #spam
+ 
+[ Fri Aug  5 11:40:38 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:58 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:58 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:58 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:40:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:08 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:08 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:08 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:42 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:42 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:42 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:42 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:41:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:43:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:43:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:44:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:01 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:30 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:45:42 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:47:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:47:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:48:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:48:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:48:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:49:15 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:49:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:49:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:49:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:49:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:38 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:50:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:15 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:51:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:52:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:52:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:52:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:52:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:52:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:52:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:53:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:55:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:03 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:04 2016 ]=>  ✺ــ⇣ًٍُّﮘــًُُِّّظـًَِّّوِّوَِّّومٍَِّ⇣ــُُّ⇣✺ [111056090] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 11:56:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:56:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:57:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:57:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:57:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:27 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:55 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 11:58:56 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:04 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:18 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:48 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:00:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:01:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:02:53 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:15 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:03:27 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:04:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:04:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:04:08 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:04:08 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:04:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:04:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:08 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:05:47 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:03 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:26 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:39 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:39 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:40 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:06:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:02 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:31 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:07:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:10:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:10:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:10:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:10:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:10:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:10:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:10:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:11:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:11:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:11:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:11:17 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:05 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:05 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:22 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:12:52 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:10 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:32 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:57 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:13:58 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:11 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:12 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:20 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:34 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:14:59 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:07 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:08 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:23 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:24 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:15:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:16:19 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:16:36 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:16:36 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:16:36 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:16:36 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:16:36 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:16:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:33 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:41 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:17:42 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:06 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:09 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:24 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:25 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:29 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:43 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:44 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:18:51 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:19:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:15 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:18 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:21 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:49 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:20:50 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:21:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:21:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:21:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:21:13 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:21:14 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:21:37 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:23:16 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:23:18 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:23:54 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:00 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:42 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:45 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:46 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:24:54 2016 ]=>  🔱بّےـ ـوٌنٌےـشّےـر🔱 گلُہآ مصٍلُحٍـجٍيَہ بْہ‏ৡہہ💀ہہۆنْـ‏ৡـہ⚔ہـ‏ৡـشُہر★★ تتكبر ★عليمن ★   ★☠ونتة ☠يم غيري اخ ★★★   ★مجتمع سخيف ★★★☠☠☠ [175840718] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 12:24:54 2016 ]=>  🔱بّےـ ـوٌنٌےـشّےـر🔱 گلُہآ مصٍلُحٍـجٍيَہ بْہ‏ৡہہ💀ہہۆنْـ‏ৡـہ⚔ہـ‏ৡـشُہر★★ تتكبر ★عليمن ★   ★☠ونتة ☠يم غيري اخ ★★★   ★مجتمع سخيف ★★★☠☠☠ [175840718] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 12:24:54 2016 ]=>  🔱بّےـ ـوٌنٌےـشّےـر🔱 گلُہآ مصٍلُحٍـجٍيَہ بْہ‏ৡہہ💀ہہۆنْـ‏ৡـہ⚔ہـ‏ৡـشُہر★★ تتكبر ★عليمن ★   ★☠ونتة ☠يم غيري اخ ★★★   ★مجتمع سخيف ★★★☠☠☠ [175840718] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 12:24:55 2016 ]=>  🔱بّےـ ـوٌنٌےـشّےـر🔱 گلُہآ مصٍلُحٍـجٍيَہ بْہ‏ৡہہ💀ہہۆنْـ‏ৡـہ⚔ہـ‏ৡـشُہر★★ تتكبر ★عليمن ★   ★☠ونتة ☠يم غيري اخ ★★★   ★مجتمع سخيف ★★★☠☠☠ [175840718] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 12:28:35 2016 ]=>  《♡❣H͡OℳٓE❣♡》 [176859117] banned user is talking !
+ 
+[ Fri Aug  5 12:28:42 2016 ]=>  ⚠الہمسہتہشہآڑ ⚠مہطہلہوبے ڈوليآ ⚠ 🔱 † [188097739] locked link posting 
+ 

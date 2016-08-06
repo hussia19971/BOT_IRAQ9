@@ -1,0 +1,18 @@
+[ Sat Aug  6 03:36:18 2016 ]=>  احمد العبيدي [73928866] added SuperGroup
+ 
+[ Sat Aug  6 03:37:16 2016 ]=>  احمد العبيدي [73928866] locked link posting 
+ 
+[ Sat Aug  6 03:37:37 2016 ]=>  احمد العبيدي [73928866] locked link posting 
+ 
+[ Sat Aug  6 03:38:20 2016 ]=>  احمد العبيدي [73928866] locked link posting 
+ 
+[ Sat Aug  6 03:41:14 2016 ]=>  احمد العبيدي [73928866] locked link posting 
+ 
+[ Sat Aug  6 03:42:14 2016 ]=>  احمد العبيدي [73928866] locked link posting 
+ 
+[ Sat Aug  6 04:26:00 2016 ]=>  احمد العبيدي[73928866] set [168207874] as owner by username
+ 
+[ Sat Aug  6 04:26:17 2016 ]=>  احمد_العبيدي [73928866] Used /superhelp
+ 
+[ Sat Aug  6 04:27:00 2016 ]=>  دكتور  اموري 😎 [168207874] requested SuperGroup users list
+ 
